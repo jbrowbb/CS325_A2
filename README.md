@@ -27,8 +27,9 @@ Create an Abstract Base Class (ABC) called Shape using the abc module. This Shap
 class should define two abstract methods:
 ```bash
 area()
-``` and
-``bash
+```
+and
+```bash
 perimeter()
 ```
 Then, create two
