@@ -1,5 +1,4 @@
 # Assignemnt 2
-===================
 
 # Question 1 (Basic Decorator for Logging):
 Use decorator, that when applied to a function prints a message to the console before the functino is executed and after it completes
